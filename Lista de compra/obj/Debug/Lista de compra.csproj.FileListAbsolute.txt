@@ -1,0 +1,10 @@
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\bin\Debug\Lista de compra.exe.config
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\bin\Debug\Lista de compra.exe
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\bin\Debug\Lista de compra.pdb
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista de compra.csproj.AssemblyReference.cache
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista_de_compra.Form1.resources
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista_de_compra.Properties.Resources.resources
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista de compra.csproj.GenerateResource.cache
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista de compra.csproj.CoreCompileInputs.cache
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista de compra.exe
+C:\Users\rafael.tsantos6\source\repos\Lista de compra\Lista de compra\obj\Debug\Lista de compra.pdb
